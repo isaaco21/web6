@@ -58,8 +58,8 @@
             </div>
           </div>
         </div>
-        <input readonly type="hidden" name="latitud" id="lat"/>
-        <input readonly type="hidden" name="longitud" id="lon"/>
+        <input  type="hidden" name="latitud" id="lat"/>
+        <input  type="hidden" name="longitud" id="lon"/>
       </form>
     </div>
     <script>
